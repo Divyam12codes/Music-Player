@@ -1,4 +1,5 @@
 {
     "title": "English Songs",
-    "description": "Yes, Just Chill"
+    "description": "Yes, Just Chill",
+    "songs" : ["Dandelions.m4a","In the Stars.m4a","Skyfall.m4a"]
 }
